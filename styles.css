@@ -1,0 +1,18 @@
+body {
+  font-family: "SF Pro Text", "Helvetica", "Arial", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  letter-spacing: -1px;
+}
+
+a {
+  font-size: 20px;
+  margin: 10px;
+  line-height: 40px;
+}
+
+.center {
+  text-align: center;
+}
